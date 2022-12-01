@@ -1,3 +1,3 @@
 # ColemakKeyboard
 
-The following keyboard is implemented - [](colemak.com)
+The following keyboard is implemented - [](https://colemak.com/)
